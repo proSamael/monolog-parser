@@ -10,8 +10,8 @@ Monolog Parser
 A simple library for parsing [monolog](https://github.com/Seldaek/monolog) logfiles.
 
 ## Installation
-
-You can install the library using [composer]('http://getcomposer.org/) by adding  `pulse00/monolog-parser` to your `composer.json`.
+- removed dependency for old version
+You can install the library using [composer]('http://getcomposer.org/) by adding  `prosamael/monolog-parser` to your `composer.json`.
 
 ## Usage
 
